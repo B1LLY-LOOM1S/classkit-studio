@@ -1,0 +1,6 @@
+streamlit
+google-generativeai
+python-pptx
+reportlab
+python-docx
+python-dotenv
